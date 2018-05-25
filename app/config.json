@@ -15,6 +15,9 @@
       "URL": "mongodb://localhost:22000",
       "db": "mydb"
   },
+  "shahrzad-bot":{
+    "token": "419143539:AAFV_NIu7p0Sahw1lLueCgMI4nwJx00sRfU"
+  },
   "nodes": {
     "native": ["hellow"],
     "module": [
@@ -23,7 +26,8 @@
       "platform/bind/panel",
       "panel-generated",
       "platform/bind/jwt",
-      "platform/bind/firestore"
+      "platform/bind/firestore",
+      "platform/bind/shahrzad-bot"
     ]
   },
   "aliases": {
